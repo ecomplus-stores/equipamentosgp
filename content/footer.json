@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Equipamentos GP",
+    "text": "A mais de 5 anos no mercado virtual, somos referência no cenário nacional e internacional em vendas de equipamentos para assados, temos como prioridade respeito ao cliente, confiança e qualidade. Trabalhamos com diversas marcas e modelos. Nosso escritório fica na cidade de Bauru-SP, porém toda compra é feito através de nosso site, onde o cliente compra, com toda segurança e conforto de sua casa."
   },
   "links_1": {
     "list_pages": true,
@@ -30,16 +30,16 @@
     "bb": true,
     "visa": true,
     "boleto": true,
-    "aura": false,
-    "banrisul": false,
+    "aura": true,
+    "banrisul": true,
     "elo": true,
     "hipercard": false,
-    "hsbc": false,
+    "hsbc": true,
     "bradesco": true,
     "santander": false,
     "mastercard": true,
     "citibank": false,
-    "mais": false,
+    "mais": true,
     "itau": true
   },
   "credits": ""

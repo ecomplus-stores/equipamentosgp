@@ -5,14 +5,17 @@
     "autoplay": 9000,
     "slides": [
       {
-        "img": "/img/uploads/rect89.png"
+        "img": "/img/uploads/black120promo.jpg"
       },
       {
-        "img": "/img/uploads/banner2.png"
+        "img": "/img/uploads/br552890.jpg"
+      },
+      {
+        "img": "/img/uploads/DIGITAAL120promo.jpg"
       }
     ]
   },
-  "pitbar": true,
+  "pitbar": false,
   "showcase": [],
   "additional_content": ""
 }
