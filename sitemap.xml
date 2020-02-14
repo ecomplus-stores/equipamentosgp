@@ -2,121 +2,343 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://storefront-demo.e-com.plus/camisa</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/meias</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/luva</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/oculos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/pages/contato</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/pages/sobre-nos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/pages/termos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/pages/trocas</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/posts/esta-loja-e-um-pwa</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://storefront-demo.e-com.plus/blog</loc>
+      <loc>https://equipamentosgp.netlify.com/maquinas-de-frango-de-espetos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://storefront-demo.e-com.plus/</loc>
+      <loc>https://equipamentosgp.netlify.com/maquinas-de-frango-giratorias</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/assadores</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/maquinas-eletricas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/maquina-de-assar-frangos-e-carnes-30-frangos-espeto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/maquina-de-assar-frangos-e-carnes-60-frangos-espeto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/assador-gastromaq-30-frangos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/assador-gastromaq-20-frangos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/assador-gastromaq-10-frangos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/assador-gastromaq-multiuso-110kg</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/assador-gastromaq-multiuso-75kg</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/assador-vertical-venancio-20-frangos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/forno-rotativo-infravermelho-progas-bivolt-pr-631</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/forno-rotativo-infravermelho-progas-bivolt-pr-621</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/forno-industrial-multiuso-giratorio-30kg-12-frangos-bivolt-eletrico-progas-prp-124e</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/forno-industrial-multiuso-giratorio-30kg-12-frangos-gas-progas-prp-124g</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/forno-industrial-multiuso-giratorio-30kg-12-frangos-a-gas-aquecimento-tubular-progas-prp-124t</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/forno-industrial-multiuso-giratorio-70kg-eletrico-progas-prp242e</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/forno-industrial-multiuso-giratorio-70kg-7-grelhas-progas-prp-242g4</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/forno-industrial-multiuso-giratorio-128kg-8-grelhas-progas-prp-482-g4</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/forno-industrial-multiuso-giratorio-128kg-8-grelhas-a-gas-natural-progas-prp482g4</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/forno-industrial-multiuso-giratorio-70kg-7-grelhas-a-gas-natural-progas-prp242g4</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/maquina-de-assar-frangos-e-carnes-140-kg-giratoria-brasgrill</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/suporte-para-assar-frango-em-pe</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/maquina-de-assar-frangos-e-carnes-120-black</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/maquina-de-assar-frangos-e-carnes-60-black</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/maquina-de-assar-frangos-e-carnes-120-eletrica-painel-digital</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/imperiometais</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/gastromaq</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/venancio</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/armon</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/rotaryspeto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/brspices</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/mantagrill</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/spolu</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/kenok</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/gpaniz</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/metalcubas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/progas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/grill</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/brasgrill</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/pages/contato</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/pages/faq</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/pages/sobre-nos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/pages/termos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/pages/trocas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/posts/esta-loja-e-um-pwa</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
     </url>
   
     <url>
-      <loc>https://storefront-demo.e-com.plus/search</loc>
+      <loc>https://equipamentosgp.netlify.com/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://storefront-demo.e-com.plus/admin/index</loc>
+      <loc>https://equipamentosgp.netlify.com/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://storefront-demo.e-com.plus/app/index</loc>
+      <loc>https://equipamentosgp.netlify.com/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://storefront-demo.e-com.plus/errors/404</loc>
+      <loc>https://equipamentosgp.netlify.com/errors/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://storefront-demo.e-com.plus/errors/500</loc>
+      <loc>https://equipamentosgp.netlify.com/errors/500</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
