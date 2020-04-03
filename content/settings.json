@@ -11,7 +11,7 @@
     "bootswatch": "_"
   },
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
+  "mini_logo": "/img/uploads/logo.png",
   "icon": "/img/icon.png",
   "large_icon": "/img/large-icon.png",
   "favicon": "/img/uploads/favicon.png",
