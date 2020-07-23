@@ -302,15 +302,15 @@
     </url>
   
     <url>
-      <loc>https://equipamentosgp.netlify.com/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://equipamentosgp.netlify.com/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
