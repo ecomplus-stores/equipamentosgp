@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://equipamentosgp.netlify.com/maquinas-de-frango-de-espetos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/maquinas-de-frango-giratorias</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/assadores</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/maquinas-eletricas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://equipamentosgp.netlify.com/maquina-de-assar-frangos-e-carnes-30-frangos-espeto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -140,30 +164,6 @@
     </url>
   
     <url>
-      <loc>https://equipamentosgp.netlify.com/maquinas-de-frango-de-espetos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://equipamentosgp.netlify.com/maquinas-de-frango-giratorias</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://equipamentosgp.netlify.com/assadores</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://equipamentosgp.netlify.com/maquinas-eletricas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://equipamentosgp.netlify.com/imperiometais</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -254,13 +254,13 @@
     </url>
   
     <url>
-      <loc>https://equipamentosgp.netlify.com/pages/faq</loc>
+      <loc>https://equipamentosgp.netlify.com/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://equipamentosgp.netlify.com/pages/entrega</loc>
+      <loc>https://equipamentosgp.netlify.com/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
