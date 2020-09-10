@@ -320,13 +320,13 @@
     </url>
   
     <url>
-      <loc>https://equipamentosgp.netlify.com/admin/index</loc>
+      <loc>https://equipamentosgp.netlify.com/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://equipamentosgp.netlify.com/app/index</loc>
+      <loc>https://equipamentosgp.netlify.com/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
