@@ -320,6 +320,12 @@
     </url>
   
     <url>
+      <loc>https://equipamentosgp.netlify.com/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
       <loc>https://equipamentosgp.netlify.com/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -335,12 +341,6 @@
       <loc>https://equipamentosgp.netlify.com/errors/500</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://equipamentosgp.netlify.com/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
