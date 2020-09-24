@@ -254,12 +254,6 @@
     </url>
   
     <url>
-      <loc>https://equipamentosgp.netlify.com/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://equipamentosgp.netlify.com/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -267,6 +261,12 @@
   
     <url>
       <loc>https://equipamentosgp.netlify.com/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://equipamentosgp.netlify.com/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -326,6 +326,12 @@
     </url>
   
     <url>
+      <loc>https://equipamentosgp.netlify.com/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
       <loc>https://equipamentosgp.netlify.com/errors/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -335,12 +341,6 @@
       <loc>https://equipamentosgp.netlify.com/errors/500</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://equipamentosgp.netlify.com/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
